@@ -5,8 +5,11 @@
 I specialize in transforming chaotic, unstructured data into high-performance analytical environments. I am passionate about bridging the gap between raw data and business intelligence.
 
 🌱 **Currently focusing on:** Data Engineering, Data Warehousing, and Machine Learning.
+
 🏢 **Current Mission:** Building a modern data stack from scratch (ETL/ELT pipelines) for a B2B financial consulting firm.
+
 💬 **Ask me about:** Python, SQL, Power BI, dbt, and Data Orchestration.
+
 ⚡ **Fun fact:** When I'm not organizing data, I'm probably organizing my personal perfume collection!
 
 ---
