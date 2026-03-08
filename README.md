@@ -1,6 +1,6 @@
 # Hi there, I'm Eduardo Fabian 👋
 
-**Data Engineer & Analytics Consultant | Systems Analysis and Development Student**
+**Data Engineer & Analytics Consultant | Mechanical Engineer - UTFPR**
 
 I specialize in transforming chaotic, unstructured data into high-performance analytical environments. I am passionate about bridging the gap between raw data and business intelligence.
 
@@ -13,7 +13,7 @@ I specialize in transforming chaotic, unstructured data into high-performance an
 
 ### 👨‍💻 About Me
 
-I am a Data Engineering and Analytics consultant with a strong business background. Currently, I am pursuing a degree in Systems Analysis and Development at IFPR and advancing my skills through the Indicium Lighthouse program and specialized Machine Learning bootcamps. 
+I am a Data Engineering and Analytics consultant with a strong business background. I am a Mechanical Engineer and currently I am pursuing a degree in Systems Analysis and Development at IFPR and advancing my skills through the Indicium Lighthouse program and specialized Machine Learning bootcamps. 
 
 My daily work involves architecting end-to-end data pipelines, taking raw financial data (like complex spreadsheets) and turning them into automated, reliable Star Schemas. I am transitioning from manual data processes to modern orchestration, heavily utilizing Python, SQL, and Docker. My ultimate goal is to architect scalable, cloud-based data solutions (AWS) that drive real business value.
 
@@ -43,5 +43,5 @@ My daily work involves architecting end-to-end data pipelines, taking raw financ
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo--fabian/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardofliveira@gmail.com)
