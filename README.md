@@ -16,9 +16,11 @@ I specialize in transforming chaotic, unstructured data into high-performance an
 
 ### 👨‍💻 About Me
 
-I am a Data Engineering and Analytics consultant with a strong business background. I am a Mechanical Engineer and currently I am pursuing a degree in Systems Analysis and Development at IFPR and advancing my skills through the Indicium Lighthouse program and specialized Machine Learning bootcamps. 
+I hold a degree in Mechanical Engineering from UTFPR and transitioned into data engineering driven by a passion for applying analytical thinking to real business problems.
 
-My daily work involves architecting end-to-end data pipelines, taking raw financial data (like complex spreadsheets) and turning them into automated, reliable Star Schemas. I am transitioning from manual data processes to modern orchestration, heavily utilizing Python, SQL, and Docker. My ultimate goal is to architect scalable, cloud-based data solutions (AWS) that drive real business value.
+Currently working as Founding Data Engineer at Bruemi, a business management consultancy in São Paulo, where I built the data infrastructure from scratch — ETL pipelines, star schema data warehouse, Power BI dashboards, and internal software products.
+
+My background spans ML research (neural networks applied to hydraulic turbines, published at COBEM and Latinoware), computer vision (U-Net/SE-UNet segmentation), and hands-on analytics engineering with dbt and Databricks.
 
 ---
 
